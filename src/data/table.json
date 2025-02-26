@@ -1,0 +1,70 @@
+{
+    "data" : 
+    [{
+        "name" : "Ravi gupta 2",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 340,
+        "section" : "A"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "12th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 440,
+        "section" : "B"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 360,
+        "section" : "A"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 370,
+        "section" : "A"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 390,
+        "section" : "C"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 400,
+        "section" : "B"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 375,
+        "section" : "C"
+    },{
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 388,
+        "section" : "B"
+    },
+    {
+        "name" : "Ravi gupta",
+        "class" : "11th",
+        "subject" : "Maths",
+        "roll_no" : 12,
+        "marks" : 407,
+        "section" : "A"
+    }
+
+]
+}
